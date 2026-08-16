@@ -1,0 +1,8 @@
+{
+  "name": "Quantum Sui (QSUI)",
+  "description": "Quantum Sui (QSUI) is a next-generation Post-Quantum Cryptographic Web 4.0 token and ecosystem on the Sui blockchain, featuring a Conway AI Cellular Automaton, an Autonomous AI Agentic Chatbot, 1,000 Trillion total supply tokenomics with global standard marketing strategy, an interactive Token Launchpad, and a comprehensive Laws, Securities, and Testing verification suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
